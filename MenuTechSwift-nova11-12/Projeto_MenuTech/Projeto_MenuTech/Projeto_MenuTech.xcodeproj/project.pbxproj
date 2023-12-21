@@ -12,13 +12,16 @@
 		CE109AF72B16790800EF6049 /* ExibirCardapioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE109AF62B16790800EF6049 /* ExibirCardapioView.swift */; };
 		CE109AF92B1683D900EF6049 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE109AF82B1683D900EF6049 /* LoginView.swift */; };
 		CE109AFB2B16915700EF6049 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE109AFA2B16915700EF6049 /* WelcomeView.swift */; };
-		CE2DE5942B1A5A8A007FDE7C /* CardUpdatedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2DE5932B1A5A8A007FDE7C /* CardUpdatedView.swift */; };
+		CE2207932B20EB9700D99205 /* PopUpAvaliacaoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2207922B20EB9700D99205 /* PopUpAvaliacaoView.swift */; };
+		CE2C31FD2B1F975E00639B3D /* PopUpLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2C31FC2B1F975E00639B3D /* PopUpLoginView.swift */; };
+		CE31B9A22B23B59500B486F2 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31B9A12B23B59500B486F2 /* AppState.swift */; };
+		CE31B9A52B23B5EE00B486F2 /* Refeicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31B9A42B23B5EE00B486F2 /* Refeicao.swift */; };
+		CE31B9A72B23B5FF00B486F2 /* Avaliacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31B9A62B23B5FF00B486F2 /* Avaliacao.swift */; };
 		CE79B20D2B110E81007D5CAE /* Projeto_MenuTechApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79B20C2B110E81007D5CAE /* Projeto_MenuTechApp.swift */; };
 		CE79B20F2B110E81007D5CAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79B20E2B110E81007D5CAE /* ContentView.swift */; };
 		CE79B2112B110E82007D5CAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE79B2102B110E82007D5CAE /* Assets.xcassets */; };
 		CE79B2142B110E82007D5CAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE79B2132B110E82007D5CAE /* Preview Assets.xcassets */; };
 		CE79B2232B110FA0007D5CAE /* EditarCardapioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79B2222B110FA0007D5CAE /* EditarCardapioView.swift */; };
-		CEAFC5572B191AE2002CC67A /* EscolherDiaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAFC5562B191AE2002CC67A /* EscolherDiaView.swift */; };
 		CEAFC5592B1935EB002CC67A /* PopUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAFC5582B1935EB002CC67A /* PopUpView.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,14 +31,17 @@
 		CE109AF62B16790800EF6049 /* ExibirCardapioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExibirCardapioView.swift; sourceTree = "<group>"; };
 		CE109AF82B1683D900EF6049 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		CE109AFA2B16915700EF6049 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
-		CE2DE5932B1A5A8A007FDE7C /* CardUpdatedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardUpdatedView.swift; sourceTree = "<group>"; };
+		CE2207922B20EB9700D99205 /* PopUpAvaliacaoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpAvaliacaoView.swift; sourceTree = "<group>"; };
+		CE2C31FC2B1F975E00639B3D /* PopUpLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpLoginView.swift; sourceTree = "<group>"; };
+		CE31B9A12B23B59500B486F2 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		CE31B9A42B23B5EE00B486F2 /* Refeicao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Refeicao.swift; sourceTree = "<group>"; };
+		CE31B9A62B23B5FF00B486F2 /* Avaliacao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avaliacao.swift; sourceTree = "<group>"; };
 		CE79B2092B110E81007D5CAE /* Projeto_MenuTech.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Projeto_MenuTech.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE79B20C2B110E81007D5CAE /* Projeto_MenuTechApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projeto_MenuTechApp.swift; sourceTree = "<group>"; };
 		CE79B20E2B110E81007D5CAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE79B2102B110E82007D5CAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE79B2132B110E82007D5CAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE79B2222B110FA0007D5CAE /* EditarCardapioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditarCardapioView.swift; sourceTree = "<group>"; };
-		CEAFC5562B191AE2002CC67A /* EscolherDiaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EscolherDiaView.swift; path = ../EscolherDiaView.swift; sourceTree = "<group>"; };
 		CEAFC5582B1935EB002CC67A /* PopUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -50,11 +56,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CE2207942B20EBEB00D99205 /* PopUps */ = {
+			isa = PBXGroup;
+			children = (
+				CEAFC5582B1935EB002CC67A /* PopUpView.swift */,
+				CE2C31FC2B1F975E00639B3D /* PopUpLoginView.swift */,
+				CE2207922B20EB9700D99205 /* PopUpAvaliacaoView.swift */,
+			);
+			path = PopUps;
+			sourceTree = "<group>";
+		};
+		CE31B9A32B23B5E000B486F2 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CE31B9A12B23B59500B486F2 /* AppState.swift */,
+				CE31B9A62B23B5FF00B486F2 /* Avaliacao.swift */,
+				CE31B9A42B23B5EE00B486F2 /* Refeicao.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		CE79B2002B110E81007D5CAE = {
 			isa = PBXGroup;
 			children = (
 				CE79B20B2B110E81007D5CAE /* Projeto_MenuTech */,
-				CE79B21F2B110EFA007D5CAE /* Views */,
 				CE79B20A2B110E81007D5CAE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -72,6 +97,8 @@
 			children = (
 				CE79B20C2B110E81007D5CAE /* Projeto_MenuTechApp.swift */,
 				CE79B20E2B110E81007D5CAE /* ContentView.swift */,
+				CE31B9A32B23B5E000B486F2 /* Models */,
+				CE79B21F2B110EFA007D5CAE /* Views */,
 				CE79B2102B110E82007D5CAE /* Assets.xcassets */,
 				CE79B2122B110E82007D5CAE /* Preview Content */,
 			);
@@ -92,12 +119,10 @@
 				CE109AFA2B16915700EF6049 /* WelcomeView.swift */,
 				CE109AF82B1683D900EF6049 /* LoginView.swift */,
 				CE109AF42B16620E00EF6049 /* HomeAdminView.swift */,
-				CEAFC5562B191AE2002CC67A /* EscolherDiaView.swift */,
 				CE79B2222B110FA0007D5CAE /* EditarCardapioView.swift */,
 				CE109AF62B16790800EF6049 /* ExibirCardapioView.swift */,
 				CE109AF22B1661E200EF6049 /* ConsultarAvaliacoesView.swift */,
-				CEAFC5582B1935EB002CC67A /* PopUpView.swift */,
-				CE2DE5932B1A5A8A007FDE7C /* CardUpdatedView.swift */,
+				CE2207942B20EBEB00D99205 /* PopUps */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -173,16 +198,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE109AF72B16790800EF6049 /* ExibirCardapioView.swift in Sources */,
+				CE31B9A52B23B5EE00B486F2 /* Refeicao.swift in Sources */,
 				CE109AF92B1683D900EF6049 /* LoginView.swift in Sources */,
 				CE79B20F2B110E81007D5CAE /* ContentView.swift in Sources */,
 				CE109AFB2B16915700EF6049 /* WelcomeView.swift in Sources */,
-				CE2DE5942B1A5A8A007FDE7C /* CardUpdatedView.swift in Sources */,
+				CE2C31FD2B1F975E00639B3D /* PopUpLoginView.swift in Sources */,
 				CE109AF32B1661E200EF6049 /* ConsultarAvaliacoesView.swift in Sources */,
 				CEAFC5592B1935EB002CC67A /* PopUpView.swift in Sources */,
 				CE109AF52B16620E00EF6049 /* HomeAdminView.swift in Sources */,
+				CE2207932B20EB9700D99205 /* PopUpAvaliacaoView.swift in Sources */,
+				CE31B9A22B23B59500B486F2 /* AppState.swift in Sources */,
+				CE31B9A72B23B5FF00B486F2 /* Avaliacao.swift in Sources */,
 				CE79B20D2B110E81007D5CAE /* Projeto_MenuTechApp.swift in Sources */,
 				CE79B2232B110FA0007D5CAE /* EditarCardapioView.swift in Sources */,
-				CEAFC5572B191AE2002CC67A /* EscolherDiaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,6 +346,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -346,6 +375,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
